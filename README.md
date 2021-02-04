@@ -10,17 +10,11 @@ It can handle 3 cases:
 
 ## Methods
 
-<<<<<<< HEAD
 `get_citations_needed_count(URL)` - returns a number of citations required for a given URL (a general citation requirement, without specific sections counts as 1, however when sections are also supplied, it does not count)
 
-`get_citations_needed_report(URL)` - returns a report of the citations required for a given URL
-=======
 `get_citations_needed_count(URL)` - returns a number of citations required for a given URL (a general citation requirement, without specific sections counts as 1, however when sections are also supplied, it does not count) 
 
 `get_citations_needed_report(URL)` - returns a report of the citations required for a given URL
-
-## Credits
->>>>>>> 47c53ac89a21121a0a668fb04188c84d33abdea8
 
 ## Attributions/Credits
 
