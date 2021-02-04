@@ -12,8 +12,6 @@ It can handle 3 cases:
 
 `get_citations_needed_count(URL)` - returns a number of citations required for a given URL (a general citation requirement, without specific sections counts as 1, however when sections are also supplied, it does not count)
 
-`get_citations_needed_count(URL)` - returns a number of citations required for a given URL (a general citation requirement, without specific sections counts as 1, however when sections are also supplied, it does not count) 
-
 `get_citations_needed_report(URL)` - returns a report of the citations required for a given URL
 
 ## Attributions/Credits
